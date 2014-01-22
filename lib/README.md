@@ -5,3 +5,6 @@ readme
 1111
 
 ###2222
+
+    greeter = Greeter.new(name)
+    puts greeter.greet
